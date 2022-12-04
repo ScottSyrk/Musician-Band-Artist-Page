@@ -5,3 +5,9 @@ table, th, td {
 td {
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
